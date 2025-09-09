@@ -1,0 +1,8 @@
+
+{
+  "name": "Ujjain360",
+  "description": "Ujjain360 is a responsive React web app for pilgrims visiting Ujjain, providing navigation, booking, emergency services, and reporting. It features an interactive map, a booking system, emergency alerts, and a voice-enabled AI assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
