@@ -1,0 +1,7 @@
+{
+  "name": "PilgrimPath",
+  "description": "A responsive React web app for pilgrims, providing navigation, booking, emergency services, and reporting. It features an interactive map, a booking system, emergency alerts, and a voice-enabled AI assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
